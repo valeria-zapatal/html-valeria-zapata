@@ -1,6 +1,8 @@
 h1 {
-  color:chocolate;
-  text-shadow:black 2px 2px;
+  color: lightcoral;
+  font-size: 30pt;
+  text-align: center;
+  background-color: lightblue;
 }
 h2 {
   color: midnightblue;
