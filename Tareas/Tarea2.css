@@ -1,0 +1,25 @@
+h1 {
+  text-shadow: black 2px 2px;
+}
+
+#bgamarillo {
+  background-color: yellow;
+}
+
+#colorverde {
+  color: green;
+}
+
+#bgnegro {
+  background-color: black;
+  color: white;
+}
+
+#colorazul {
+  color: blue;
+}
+
+#shadow {
+  text-shadow: black 2px 2px;
+  font-size: 30px;
+}
