@@ -1,0 +1,28 @@
+#titulo1 {
+  text-align: center;
+}
+
+#Vacahermosa {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px yellow);
+}
+
+#titulo2 {
+  text-align: left;
+}
+
+#Mariposa {
+  display: block;
+  filter: drop-shadow(5px 5px orange);
+}
+
+#titulo3 {
+  text-align: right;
+}
+#Tortuga {
+  display: block;
+  filter: drop-shadow(5px 5px blue);
+  margin-left: 50%;
+}

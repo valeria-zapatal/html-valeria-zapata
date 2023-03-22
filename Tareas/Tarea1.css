@@ -6,16 +6,11 @@ h1 {
 }
 h2 {
   color: midnightblue;
-  
 }
 
 h3 {
   color: maroon;
   text-align: center;
-  background-color:darkslategrey ;
-  font-size:20px;
-}
-
-p {
-  color
+  background-color: darkslategrey;
+  font-size: 20px;
 }
