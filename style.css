@@ -1,0 +1,50 @@
+#Buho {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Caballitodemar {
+  display: block;
+  margin-left: 400px;
+}
+
+#Caballo {
+  display: block;
+  margin-left: 30px;
+}
+
+#Delfin {
+  display: block;
+  margin-left: 10px;
+}
+
+#Dragon {
+  display: block;
+  margin-left: 50px;
+}
+#Tortuga {
+  display: block;
+  margin-left: 70px;
+}
+
+#Elefante {
+  display: block;
+  margin-left: 150px;
+}
+
+#Leopardo {
+  display: block;
+  margin-left: auto;
+}
+
+#Mariposa {
+  display: block;
+  margin-left: 180px;
+}
+
+#Vaca{
+  display: block;
+  margin-right: auto;
+  filter: brightness(150%);
+}
